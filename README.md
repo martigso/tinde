@@ -1,0 +1,2 @@
+# tinde
+Replikasjonsmateriale for TiNDe
